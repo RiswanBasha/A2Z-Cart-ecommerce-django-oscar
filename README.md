@@ -56,6 +56,7 @@
         -  pip install django-paypal-express-checkout
         -  pip install expresscheckout
         -  pip install checkout
+        -  pip install sorl-thumbnail
   4. migrate the changes - python manage.py makemigrations
   5. migrate to DB - python manage.py migrate
   6. Run the server - python manage.py runserver
