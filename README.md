@@ -63,7 +63,7 @@
  # HAPPY CODING DJANGO !!!!!
  
  
-# -- if any queries ping me @ https://www.linkedin.com/in/riswanbasha26rb/ or riswanbasha26@gmail.com --
+ -- if any queries ping me @ https://www.linkedin.com/in/riswanbasha26rb/ or riswanbasha26@gmail.com --
  
  # MAKE YOUR E-COMMERCE APP BY YOURSELF
   
