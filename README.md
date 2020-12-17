@@ -54,7 +54,7 @@
         -  pip install pyopenssl
         -  pip install python-http-client
         -  pip install django-paypal-express-checkout
-        -  pip install express-checkout
+        -  pip install expresscheckout
         -  pip install checkout
   4. migrate the changes - python manage.py makemigrations
   5. migrate to DB - python manage.py migrate
