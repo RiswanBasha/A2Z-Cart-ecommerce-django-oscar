@@ -42,3 +42,28 @@ Features:
   
   20.Stock alerts and so on...
   
+To run this Project:
+  1. Make a virtual environment - virtualenv oscdj
+  2. activate the venv - ./oscdj/scripts/activate
+  3. install all the dependencies 
+        -  pip install django-oscar
+        -  pip install django-oscar-paypal
+        -  pip install paypal
+        -  pip install paypal-checkout-serversdk
+        -  pip install paypalhttp
+        -  pip install pyopenssl
+        -  pip install python-http-client
+        -  pip install django-paypal-express-checkout
+        -  pip install express-checkout
+        -  pip install checkout
+  4. migrate the changes - python manage.py makemigrations
+  5. migrate to DB - python manage.py migrate
+  6. Run the server - python manage.py runserver
+  
+ HAPPY CODING DJANGO !!!!!
+ 
+ 
+-- if any queries ping me @ https://www.linkedin.com/in/riswanbasha26rb/ or riswanbasha26@gmail.com --
+ 
+ MAKE YOUR E-COMMERCE APP BY YOURSELF
+  
