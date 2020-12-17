@@ -1,6 +1,6 @@
 # A2Z-Cart--An-E-commerce-website-using-Django-Oscar
 
-Features:
+# Features:
 
   1.Login/Logout page
   
@@ -42,7 +42,7 @@ Features:
   
   20.Stock alerts and so on...
   
-To run this Project:
+# To run this Project:
   1. Make a virtual environment - virtualenv oscdj
   2. activate the venv - ./oscdj/scripts/activate
   3. install all the dependencies 
@@ -60,10 +60,10 @@ To run this Project:
   5. migrate to DB - python manage.py migrate
   6. Run the server - python manage.py runserver
   
- HAPPY CODING DJANGO !!!!!
+ # HAPPY CODING DJANGO !!!!!
  
  
--- if any queries ping me @ https://www.linkedin.com/in/riswanbasha26rb/ or riswanbasha26@gmail.com --
+# -- if any queries ping me @ https://www.linkedin.com/in/riswanbasha26rb/ or riswanbasha26@gmail.com --
  
- MAKE YOUR E-COMMERCE APP BY YOURSELF
+ # MAKE YOUR E-COMMERCE APP BY YOURSELF
   
