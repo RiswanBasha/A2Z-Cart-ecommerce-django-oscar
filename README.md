@@ -59,10 +59,7 @@
   4. migrate the changes - python manage.py makemigrations
   5. migrate to DB - python manage.py migrate
   6. Run the server - python manage.py runserver
-  
- # HAPPY CODING DJANGO !!!!!
- 
- 
+   
  -- if any queries ping me @ https://www.linkedin.com/in/riswanbasha26rb/ or riswanbasha26@gmail.com --
  
  # MAKE YOUR E-COMMERCE APP BY YOURSELF
