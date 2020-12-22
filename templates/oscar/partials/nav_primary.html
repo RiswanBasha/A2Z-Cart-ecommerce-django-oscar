@@ -99,7 +99,7 @@
                 {% else %}
                
                     <div class="btn-nav" style="margin-top: 7px;margin-right: 10px;">
-                        <a href="{% url 'customer:login' %}" class="btn btn-primary btn-small" style="color:black;background-color: white;">
+                        <a  href="{% url 'customer:login' %}" class="btn btn-primary btn-small" style="color:black;background-color: white;">
                             <i class="icon-signin"></i>
                             {% trans 'Login or Register' %}
                         </a>
@@ -108,7 +108,7 @@
                 {% endif %}
                 {% if user.is_staff or perms.partner.dashboard_access %}
                 <div class="btn-nav" style="margin-top: 7px;margin-right: 10px;">
-                    <a href="{% url 'dashboard:index' %}" class="btn btn-primary btn-small" style="color:black;background-color: white;">
+                    <a target="_blank" href="{% url 'dashboard:index' %}" class="btn btn-primary btn-small" style="color:black;background-color: white;">
                         <i class="icon-dashboard"></i>
                         {% trans 'dashboard' %}
                     </a>
