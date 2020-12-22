@@ -1,0 +1,11 @@
+django-oscar
+django-oscar-paypal
+paypal
+paypal-checkout-serversdk
+paypalhttp
+pyopenssl
+python-http-client
+django-paypal-express-checkout
+expresscheckout
+checkout
+sorl-thumbnail
