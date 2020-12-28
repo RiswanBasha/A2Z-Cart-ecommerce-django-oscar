@@ -42,6 +42,12 @@
   
   20.Stock alerts and so on...
   
+  Donts:
+  
+  1. Any kind of e-mail integration
+  
+  2. Currency is in GBP not in Rupees
+  
 # To run this Project:
   1. Make a virtual environment - virtualenv oscdj
   2. activate the venv - ./oscdj/scripts/activate
