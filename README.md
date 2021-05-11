@@ -53,6 +53,7 @@
   2. activate the venv - ./oscdj/scripts/activate
   3. install all the dependencies 
         -  pip install django-oscar
+        -  pip install django
         -  pip install django-oscar-paypal
         -  pip install paypal
         -  pip install paypal-checkout-serversdk
